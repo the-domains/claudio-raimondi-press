@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Home]]></title>
+        <description><![CDATA[Home]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 07:24:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Accordo con Confcommercio, Ebay sarà il portale delle imprese italiane]]></title>
+            <description><![CDATA[<article><h1>Accordo con Confcommercio, Ebay sarà il portale delle imprese italiane</h1><p>Se quando pensate a eBay vi viene in mente il sito su cui mettere in vendita all'asta le vostre collezioni di fumetti, farfalle, francobolli e chi più ne ha più ne metta....scordatevelo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa4044fc11b6ef9ece81f50f30fcf5f1c21cffe8.jpg"></article>]]></description>
+            <link>http://smartmoney.startupitalia.eu/e-commerce/49998-20151005-ebay-confcommercio-pmi</link>
+            <guid isPermaLink="false">32382969-0efe-4f42-b164-0094c1a61c7d</guid>
+            <pubDate>Tue, 16 Feb 2016 07:07:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
