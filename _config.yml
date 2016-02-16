@@ -2,6 +2,7 @@ name: Claudio Raimondi - Press
 favicon: null
 layout_spectrum: 0.1706543422769755
 typography_spectrum: 0.44309131894260645
+title: Home
 cta:
   domain: null
   bucket: null
