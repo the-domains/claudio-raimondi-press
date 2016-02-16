@@ -1,6 +1,6 @@
 name: Claudio Raimondi - Press
 favicon: null
-layout_spectrum: 0.1706543422769755
+layout_spectrum: 1
 typography_spectrum: 0.48701
 title: Home
 cta:
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.5
   saturation: 1
-  rhythmicContrast: 0.2821746307890862
+  rhythmicContrast: 1
 purpose: []
