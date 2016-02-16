@@ -1,0 +1,28 @@
+name: Claudio Raimondi - Press
+favicon: null
+layout_spectrum: 0.1706543422769755
+typography_spectrum: 0.44309131894260645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5346173536963761
+  lightness: 0.996033824281767
+  saturation: 0.6548512584995478
+  rhythmicContrast: 0.2821746307890862
+purpose: []
