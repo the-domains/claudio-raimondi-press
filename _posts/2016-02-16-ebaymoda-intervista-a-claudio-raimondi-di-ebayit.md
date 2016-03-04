@@ -17,8 +17,8 @@ keywords:
   - intervista
   - caffe
 description: 'Intervista a Claudio Raimondi - Head of Trading di eBay Italia, Francia e Spagna che ci parla della nuova iniziativa eBayMODA, volta a proporre un vero e proprio iInspired Shopping e presentata con un evento esclusivo a Milano. www.mediacomunicazione.com'
-datePublished: '2016-02-16T20:23:03.094Z'
-dateModified: '2016-02-16T20:20:47.550Z'
+datePublished: '2016-03-04T06:28:27.672Z'
+dateModified: '2016-03-04T06:28:22.497Z'
 author:
   - name: mComunicazioneTV
     url: 'https://www.youtube.com/user/mComunicazioneTV'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=fuPTDA0T6vU&feature=applinks'
     type: web
 title: '#eBayMODA - Intervista a Claudio Raimondi di eBay.it'
+sourcePath: _posts/2016-02-16-ebaymoda-intervista-a-claudio-raimondi-di-ebayit.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-16-ebaymoda-intervista-a-claudio-raimondi-di-ebayit.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
