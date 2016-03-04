@@ -4,8 +4,15 @@
         <description><![CDATA[Media & Press]]></description>
         <link>https://thegrid.ai/claudio-raimondi-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 06:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 06:30:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/claudio-raimondi-press/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test</p>]]></description>
+            <link>https://thegrid.ai/claudio-raimondi-press/3e8c74c9-489a-4efe-a73e-b9f182e1fb93/index.html</link>
+            <guid isPermaLink="false">3e8c74c9-489a-4efe-a73e-b9f182e1fb93</guid>
+            <pubDate>Fri, 04 Mar 2016 06:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Le 7 regole d'oro di Claudio Raimondi, country manager eBay]]></title>
             <description><![CDATA[<article><h1>Le 7 regole d'oro di Claudio Raimondi, country manager eBay</h1><p>Con una carriera brillante alle spalle e un ruolo sfidante con cui confrontarsi oggi, Claudio Raimondi è una delle promesse mantenute della nuova generazione di manager italiani. Fattosi le ossa in colossi come Vodafone e Pirelli, Raimondi è successivamente approdato in eBay, rivestendo il ruolo prima di Head of Buyer e poi di Country Manager .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/488afa80c128d812275ecdaece872f45fc7ee9ad.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>24 marzo - Cliccato e mangiato</h1><p>eBay e Barilla: Claudio Raimondi e Luca di Leo (prima parte)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68a60fbb9e0d5fd3aaa37501c586c948ca6aa486.jpg"></article>]]></description>
             <link>http://www.reteconomy.it/programmi/economy-up/2015/marzo/24-cliccato-e-mangiato/ebay-barilla-claudio-raimondi-e-luca-di-leo-prima-parte.aspx</link>
             <guid isPermaLink="false">bdfbbbc8-88c5-4a4b-addb-3d1aff861785</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eBay Collezioni | Intervista a Claudio Raimondi]]></title>
-            <description><![CDATA[<article><h1>eBay Collezioni | Intervista a Claudio Raimondi</h1><p>Claudio Raimondi, Head of Trading di eBay per Italia, Francia e Spagna ai nostri microfoni ha presentato eBay Collezioni, nuovo e importante tassello per l'Inspired Shopping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa3e404ee0197f7796dbede9c3159866416b330f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=CQ7TTA6kYs4</link>
-            <guid isPermaLink="false">0fd3e25f-beff-44be-ad47-2f3358a1c20d</guid>
             <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
         </item>
     </channel>
