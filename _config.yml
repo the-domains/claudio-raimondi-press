@@ -1,7 +1,7 @@
 name: Claudio Raimondi - Press
 favicon: null
 layout_spectrum: 0.81276
-typography_spectrum: 0.87906
+typography_spectrum: 0.81769
 title: 'Media & Press'
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#4c5b5c'
     - '#bced09'
     - '#8fbc4c'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.625
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
