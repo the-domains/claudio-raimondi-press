@@ -4,8 +4,15 @@
         <description><![CDATA[Media & Press]]></description>
         <link>http://press.raimondi.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 09:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 09:21:07 GMT</lastBuildDate>
         <atom:link href="http://press.raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BIO]]></title>
+            <description><![CDATA[<article><h1>BIO</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d1b0d630391c8a8d219beec66f57f13bb13048d.jpg"></article>]]></description>
+            <link>http://raimondi.digital/bio</link>
+            <guid isPermaLink="false">eda5a86a-83b9-4895-a15c-1d7d281b881c</guid>
+            <pubDate>Mon, 25 Apr 2016 09:20:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ab877fc5b8858460764a2e352192f91fe6d68d.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>La rivoluzione di e-commerce e mobile: intervista a Claudio Raimondi di eBay</h1><p>L'e-commerce viaggia a ritmi di +17% sullo scorso anno. Il mobile è ancora più impressionante, con una crescita del 100%. E non è finita qui...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf17606bd8785a6829a0f66764ee41f13cba1235.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Pm2FAuBs-p0</link>
             <guid isPermaLink="false">2ec8905e-acbd-44a1-93e4-dd453e56bfbb</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebay Dome, il design incontra la tecnologia nell&#39;ambiente di casa]]></title>
-            <description><![CDATA[<article><h1>Ebay Dome, il design incontra la tecnologia nell&#39;ambiente di casa</h1><p>Milano, (TMNews) - Cinque isole che rappresentano altrettanti ambienti della casa, dalla cucina alla camera da letto, passando per living, sala da pranzo e spazio per i bambini: Ebay torna al Superstudio Più di via Tortona, cuore della settimana milanese del Design, e raccoglie in un unico allestimento gli oggetti simbolo della creatività italiana e internazionale in occasione del Fuorisalone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edc3df60e171d27a14a07eda15d0428fecfa3673.jpg"></article>]]></description>
-            <link>http://video.ilsole24ore.com/TMNews/2014/20140409_video_10414588/00020005-ebay-dome-il-design-incontra-la-tecnologia-nellambiente-di-casa.php?refresh_ce=1</link>
-            <guid isPermaLink="false">c2e74d86-6054-45f1-9496-505fcbc1d374</guid>
             <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
         </item>
     </channel>
