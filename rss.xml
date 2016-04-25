@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Media & Press]]></title>
         <description><![CDATA[Media & Press]]></description>
-        <link>https://thegrid.ai/claudio-raimondi-press/</link>
+        <link>http://press.raimondi.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:39 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/claudio-raimondi-press/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 09:20:33 GMT</lastBuildDate>
+        <atom:link href="http://press.raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ab877fc5b8858460764a2e352192f91fe6d68d.jpg"></article>]]></description>
+            <link>http://raimondi.digital</link>
+            <guid isPermaLink="false">daddf20b-a3b4-4920-a878-2e52542e21f4</guid>
+            <pubDate>Mon, 25 Apr 2016 09:20:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["eBay adotta L'Aquila": il colosso dell'e-commerce a sostegno dei negozianti]]></title>
-            <description><![CDATA[<article><h1>"eBay adotta L'Aquila": il colosso dell'e-commerce a sostegno dei negozianti</h1><p>Si chiama "" ed è un progetto lanciato da Confcommercio e dal colosso dell'e-commerce per aiutare le imprese e le attività commerciali aquilane. La presentazione si è svolta a palazzo Fibbioni alla presenza dei rappresentanti istituzionali locali, del presidente nazionale di Confcommercio Giovani Alessandro Micheli e del general manager di eBay Italia Claudio Raimondi.</p><img src="http://news-town.it/media/k2/items/cache/58beec39bff4051c188cfa24e1a39044_L.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>"eBay adotta L'Aquila": il colosso dell'e-commerce a sostegno dei negozianti</h1><p>Roberto Ciuffini</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ab877fc5b8858460764a2e352192f91fe6d68d.jpg"></article>]]></description>
             <link>http://news-town.it/cultura-e-societa/11510-ebay-adotta-l-aquila-il-colosso-dell-e-commerce-a-sostegno-dei-negozianti.html</link>
             <guid isPermaLink="false">425c8b68-59d8-42cc-aa12-8517228054b7</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:52 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 09:16:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L'Aquila rinasce anche grazie a eBay - Panorama]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ebay Dome, il design incontra la tecnologia nell&#39;ambiente di casa</h1><p>Milano, (TMNews) - Cinque isole che rappresentano altrettanti ambienti della casa, dalla cucina alla camera da letto, passando per living, sala da pranzo e spazio per i bambini: Ebay torna al Superstudio Più di via Tortona, cuore della settimana milanese del Design, e raccoglie in un unico allestimento gli oggetti simbolo della creatività italiana e internazionale in occasione del Fuorisalone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edc3df60e171d27a14a07eda15d0428fecfa3673.jpg"></article>]]></description>
             <link>http://video.ilsole24ore.com/TMNews/2014/20140409_video_10414588/00020005-ebay-dome-il-design-incontra-la-tecnologia-nellambiente-di-casa.php?refresh_ce=1</link>
             <guid isPermaLink="false">c2e74d86-6054-45f1-9496-505fcbc1d374</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[24 marzo - Cliccato e mangiato]]></title>
-            <description><![CDATA[<article><h1>24 marzo - Cliccato e mangiato</h1><p>eBay e Barilla: Claudio Raimondi e Luca di Leo (seconda parte)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/516191cf244053021a3db15801f2bb24d168fe4d.jpg"></article>]]></description>
-            <link>http://www.reteconomy.it/programmi/economy-up/2015/marzo/24-cliccato-e-mangiato/ebay-barilla-claudio-raimondi-e-luca-di-leo-seconda-parte.aspx</link>
-            <guid isPermaLink="false">86959b82-1aa4-4a01-a645-09497da8c0b3</guid>
             <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
         </item>
     </channel>
