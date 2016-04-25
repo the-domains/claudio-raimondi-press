@@ -4,26 +4,26 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=t60gpuSJaL4'
 inLanguage: null
-starred: false
 keywords: []
 description: "Claudio Raimondi, General Manager di eBay in Italia, in occasione dei venti anni della piattaforma di e-commerce, sottolinea l'evoluzione e l'importanza del marketplace per le strategie di business delle aziende italiane."
-datePublished: '2016-02-16T20:23:02.203Z'
-dateModified: '2016-02-16T20:19:44.544Z'
+datePublished: '2016-04-25T15:22:25.886Z'
+dateModified: '2016-04-25T15:22:24.790Z'
 author:
-  - name: Viral caffe
-    url: 'https://www.youtube.com/channel/UC9VXFzTERJmtNEuq8lCy39w'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links: []
 title: Intervista a Claudio Raimondi
+sourcePath: _posts/2016-02-16-intervista-a-claudio-raimondi.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-02-16-intervista-a-claudio-raimondi.md
-published: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
