@@ -4,8 +4,15 @@
         <description><![CDATA[Media & Press]]></description>
         <link>http://press.raimondi.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 09:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 09:21:36 GMT</lastBuildDate>
         <atom:link href="http://press.raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONTACTS]]></title>
+            <description><![CDATA[<article><h1>CONTACTS</h1></article>]]></description>
+            <link>http://raimondi.digital/contacts</link>
+            <guid isPermaLink="false">606d3fd4-07b6-4604-bbc8-a1c7a7dca29f</guid>
+            <pubDate>Mon, 25 Apr 2016 09:20:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BIO]]></title>
             <description><![CDATA[<article><h1>BIO</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d1b0d630391c8a8d219beec66f57f13bb13048d.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Vendite online, manager Ebay Italia: "E-commerce risorsa per uscire dalla crisi" (video)</h1><p>Le potenzialità dell'e-commerce anche nel nostro Paese e il caso Ebay: Claudio Raimondi, Country Manager Ebay Italia ne parla con Ida Baldi</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2130e4dcc0d373c21e270c831d51c34c34265167.png"></article>]]></description>
             <link>http://www.rainews.it/dl/rainews/media/Claudio-Raimondi-Manager-Ebay-E-commerce-risorsa-per-uscire-dalla-crisi-07218d6a-8a0d-47f0-9cf7-643e7106c916.html</link>
             <guid isPermaLink="false">f12be4b4-23b0-4afc-b66e-4a93d3055de1</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La rivoluzione di e-commerce e mobile: intervista a Claudio Raimondi di eBay]]></title>
-            <description><![CDATA[<article><h1>La rivoluzione di e-commerce e mobile: intervista a Claudio Raimondi di eBay</h1><p>L'e-commerce viaggia a ritmi di +17% sullo scorso anno. Il mobile è ancora più impressionante, con una crescita del 100%. E non è finita qui...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf17606bd8785a6829a0f66764ee41f13cba1235.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Pm2FAuBs-p0</link>
-            <guid isPermaLink="false">2ec8905e-acbd-44a1-93e4-dd453e56bfbb</guid>
             <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
         </item>
     </channel>
