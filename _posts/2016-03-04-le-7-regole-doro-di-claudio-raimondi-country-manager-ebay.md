@@ -7,8 +7,8 @@ inLanguage: it
 starred: false
 keywords: []
 description: 'Con una carriera brillante alle spalle e un ruolo sfidante con cui confrontarsi oggi, Claudio Raimondi è una delle promesse mantenute della nuova generazione di manager italiani. Fattosi le ossa in colossi come Vodafone e Pirelli, Raimondi è successivamente approdato in eBay, rivestendo il ruolo prima di Head of Buyer e poi di Country Manager .'
-datePublished: '2016-03-04T06:38:12.421Z'
-dateModified: '2016-03-04T06:27:36.525Z'
+datePublished: '2016-04-25T10:16:42.048Z'
+dateModified: '2016-04-07T05:34:50.606Z'
 author:
   - name: redazione
     url: 'http://www.spiritoleader.it/author/redazione/'
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Le 7 regole d'oro di Claudio Raimondi&amp;comma; country manager eBay</h1><p>Con una carriera brillante alle spalle e un ruolo sfidante con cui confrontarsi oggi&amp;comma; Claudio Raimondi è una delle promesse mantenute della nuova generazione di manager italiani&amp;period; Fattosi le ossa in colossi come Vodafone e Pirelli&amp;comma; Raimondi è successivamente approdato in eBay&amp;comma; rivestendo il ruolo prima di Head of Buyer e poi di Country Manager &amp;period;</p><img src="http://www.spiritoleader.it/wp-content/uploads/2016/02/Claudio-Raimondi.jpg" /></article>
+<article style=""><h1>Le 7 regole d'oro di Claudio Raimondi, country manager eBay</h1><p>Con una carriera brillante alle spalle e un ruolo sfidante con cui confrontarsi oggi, Claudio Raimondi è una delle promesse mantenute della nuova generazione di manager italiani. Fattosi le ossa in colossi come Vodafone e Pirelli, Raimondi è successivamente approdato in eBay, rivestendo il ruolo prima di Head of Buyer e poi di Country Manager .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/488afa80c128d812275ecdaece872f45fc7ee9ad.jpg" /></article>
