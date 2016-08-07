@@ -1,17 +1,4 @@
-title: Press
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.4422593554481864
 color:
   saturation: 0.7040817
   brandStrength: 0.8372717
@@ -23,6 +10,16 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   rhythmicContrast: 0.1852846
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3140004021115601
+analytics:
+  twitter: null
+  google: UA-5050578-6
+  facebook: null
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
 cta:
   bucket: null
   version: null
@@ -44,14 +41,17 @@ navigation:
     url: 'http://linkedin.com/in/CRaimondi'
     type: external
 favicon: null
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: null
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4422593554481864
-layout_spectrum: 0.3140004021115601
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Press
+purpose: []
