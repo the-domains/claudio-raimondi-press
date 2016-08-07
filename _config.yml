@@ -1,41 +1,41 @@
-typography_spectrum: 0.05023573129437864
-color:
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  brandStrength: 0.6942080627195537
-  lightness: 0.4147197452839464
-  saturation: 0.5678478369954973
-  rhythmicContrast: 0.27968700509518385
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.04521138500422239
-analytics:
-  google: UA-5050578-6
-  facebook: null
-  twitter: null
-name: Claudio Raimondi - Press
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
+title: Media & Press
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Media & Press
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5678478369954973
+  brandStrength: 0.6942080627195537
+  rhythmicContrast: 0.2796870050951838
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  lightness: 0.4147197452839464
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-5050578-6
+  facebook: null
+favicon: null
+name: Claudio Raimondi - Press
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4462943
+layout_spectrum: 0.04521138500422239
