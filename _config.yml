@@ -31,7 +31,7 @@ navigation:
   - name: ABOUT ME
     url: 'http://claudioraimondi.com/claudio-raimondi/'
     type: external
-  - name: PRESS & MEDIA
+  - name: PRESS
     url: 'http://press.ClaudioRaimondi.com'
     type: external
   - name: Twitter
