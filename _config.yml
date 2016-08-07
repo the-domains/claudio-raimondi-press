@@ -31,6 +31,9 @@ navigation:
   - name: ABOUT ME
     url: 'http://claudioraimondi.com/claudio-raimondi/'
     type: external
+  - name: PRESS & MEDIA
+    url: 'http://press.ClaudioRaimondi.com'
+    type: external
 favicon: null
 collections:
   - index:
