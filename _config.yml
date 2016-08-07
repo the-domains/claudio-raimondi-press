@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: ABOUT ME
-    url: 'http://claudioraimondi.com/claudio-raimondi/'
-    type: external
   - name: BLOG
     url: 'http://www.ClaudioRaimondi.com'
+    type: external
+  - name: ABOUT ME
+    url: 'http://claudioraimondi.com/claudio-raimondi/'
     type: external
 favicon: null
 collections:
