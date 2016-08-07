@@ -13,20 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7900108
+  saturation: 0.9801289
   brandStrength: 0.7599356
-  lightness: 0.235768
+  lightness: 0.6772288
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  rhythmicContrast: 0.2465091
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.4355532
 navigation:
   - name: BLOG
     url: 'http://www.ClaudioRaimondi.com'
@@ -43,12 +39,16 @@ navigation:
   - name: LinkedIn
     url: 'http://linkedin.com/in/CRaimondi'
     type: external
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: UA-5050578-6
   facebook: null
 name: 'Claudio Raimondi, General Manager at eBay in Italy'
+favicon: null
 opengraph:
   image: null
   type: null
