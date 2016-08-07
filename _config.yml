@@ -19,7 +19,7 @@ analytics:
   google: UA-5050578-6
   facebook: null
   twitter: null
-name: Claudio Raimondi - Press
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: ABOUT ME
     url: 'http://claudioraimondi.com/claudio-raimondi/'
+    type: external
+  - name: BLOG
+    url: 'http://www.ClaudioRaimondi.com'
     type: external
 favicon: null
 collections:
