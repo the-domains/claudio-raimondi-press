@@ -1,5 +1,43 @@
-title: Press
-purpose: []
+typography_spectrum: 0.2928021780680865
+color:
+  saturation: 0.09066092688590288
+  brandStrength: 0.3807009297888726
+  lightness: 0.9488209343980998
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  rhythmicContrast: 0.725006055785343
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3453276
+analytics:
+  twitter: null
+  google: UA-5050578-6
+  facebook: null
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: BLOG
+    url: 'http://www.ClaudioRaimondi.com'
+    type: external
+  - name: ABOUT ME
+    url: 'http://claudioraimondi.com/claudio-raimondi/'
+    type: external
+  - name: PRESS
+    url: 'http://press.ClaudioRaimondi.com'
+    type: external
+  - name: LinkedIn
+    url: 'http://linkedin.com/in/CRaimondi'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,46 +50,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9444138172548264
-  brandStrength: 0.6995915728621185
-  lightness: 0.7568432558327913
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.9607447884045541
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: null
-favicon: null
-navigation:
-  - name: BLOG
-    url: 'http://www.ClaudioRaimondi.com'
-    type: external
-  - name: ABOUT ME
-    url: 'http://claudioraimondi.com/claudio-raimondi/'
-    type: external
-  - name: PRESS
-    url: 'http://press.ClaudioRaimondi.com'
-    type: external
-  - name: Twitter
-    url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
-  - name: LinkedIn
-    url: 'http://linkedin.com/in/CRaimondi'
-    type: external
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8723630998283625
-layout_spectrum: 0.16232791380025446
+title: Press
+purpose: []
