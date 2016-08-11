@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.2819549
-  brandStrength: 0.3174006
-  lightness: 0.8748657
+  saturation: 0.09066092688590288
+  brandStrength: 0.3807009297888726
+  lightness: 0.9488209343980998
   brandColors:
     - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-  rhythmicContrast: 0.5558539
+    - '#FF9800'
+  rhythmicContrast: 0.725006055785343
 cta:
   bucket: null
   version: null
@@ -53,5 +53,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.443072
+typography_spectrum: 0.2928021780680865
 layout_spectrum: 0.3453276
