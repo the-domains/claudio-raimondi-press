@@ -31,7 +31,7 @@ navigation:
   - name: blog
     url: 'http://www.ClaudioRaimondi.com'
     type: external
-  - name: ABOUT ME
+  - name: about me
     url: 'http://claudioraimondi.com/claudio-raimondi/'
     type: external
   - name: on Twitter
