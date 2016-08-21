@@ -11,7 +11,8 @@ color:
   saturation: 0.9817181883845478
   rhythmicContrast: 0.17747852159664035
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a341cff7-cd75-48d2-9030-82ee2f24fcf0.jpg
   type: null
   appId: null
 layout_spectrum: 0.6516661522909999
@@ -22,7 +23,9 @@ analytics:
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
-name: Press
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c171dc-8305-4188-920e-d279f7e42698.jpg
+name: Claudio Raimondi
 cta:
   domain: null
   bucket: null
@@ -40,7 +43,8 @@ navigation:
   - name: on LinkedIn
     url: 'http://www.linkedin.com/in/craimondi'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/364c9bb4-58ec-447b-81c5-76115659f0dd.jpg
 collections:
   - index:
       path: /
