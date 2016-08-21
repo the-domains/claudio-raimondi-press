@@ -1,4 +1,3 @@
-layout_spectrum: 0.6516661522909999
 typography_spectrum: 0.5774748350959271
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6516661522909999
 analytics:
   google: UA-5050578-6
   facebook: null
@@ -28,7 +28,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: BLOG
+  - name: blog
     url: 'http://www.ClaudioRaimondi.com'
     type: external
   - name: ABOUT ME
