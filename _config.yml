@@ -22,7 +22,7 @@ analytics:
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
+name: Press
 cta:
   domain: null
   bucket: null
@@ -50,6 +50,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Claudio Raimondi - Press
+title: Claudio Raimondi
 description: Claudio Raimondi
 purpose: []
