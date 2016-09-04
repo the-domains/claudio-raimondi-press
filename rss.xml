@@ -4,8 +4,15 @@
         <description><![CDATA[PRESS]]></description>
         <link>http://press.claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 15:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 20:53:38 GMT</lastBuildDate>
         <atom:link href="http://press.claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[eBay da Mercatino a mega eShop]]></title>
+            <description><![CDATA[<article><h1>eBay da Mercatino a mega eShop</h1><p>Da mercatino dell'usato al più grande centro commerciale online: un cambio rivoluzionario per eBay che ha visto evolvere il proprio modello di business. Nato nel 1995 come piattaforma di aste tra privati, eBay è oggi una grande multinazionale, finestra sul mondo per chi vuole vendere e acquis</p><img src="http://www.digitalpeople.tv/d/wp-content/uploads/2016/08/92172_ebay2.jpg"></article>]]></description>
+            <link>http://www.digitalpeople.tv/ebay-da-mercatino-mega-eshop-2/</link>
+            <guid isPermaLink="false">9a28395f-3506-4e6b-8fbf-308bb3eabe4d</guid>
+            <pubDate>Thu, 01 Sep 2016 20:53:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intervista ad eBay]]></title>
             <description><![CDATA[<article><h1>Intervista ad eBay</h1><p>Intervista a Claudio Raimondi - General Manager eBay in Italia - Milano. Un marketplace fatto di persone: siamo sul territorio e lavoriamo per il territorio.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c18cc5e34f733622f644e14b62e248e4/noop.jpg?input=http%3A%2F%2Fwww.digitalpeople.tv%2Fd%2Fwp-content%2Fuploads%2F2016%2F08%2Febay.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.panorama.it/mytech/laquila-rinasce-anche-grazie-ebay/</link>
             <guid isPermaLink="false">0fab1618-cac3-43be-be89-6e95bebfb058</guid>
             <pubDate>Mon, 25 Apr 2016 15:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#eBayMODA - Intervista a Claudio Raimondi di eBay.it]]></title>
-            <description><![CDATA[<article><h1>#eBayMODA - Intervista a Claudio Raimondi di eBay.it</h1><p>Intervista a Claudio Raimondi - Head of Trading di eBay Italia, Francia e Spagna che ci parla della nuova iniziativa eBayMODA, volta a proporre un vero e proprio iInspired Shopping e presentata con un evento esclusivo a Milano. www.mediacomunicazione.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/881f00a8dd5bcd62cae12aea3ce519c12555be9c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fuPTDA0T6vU</link>
-            <guid isPermaLink="false">17e28661-7359-41a8-b38a-f87ee397a818</guid>
-            <pubDate>Fri, 04 Mar 2016 06:28:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
