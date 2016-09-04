@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Media & Press]]></title>
-        <description><![CDATA[Media & Press]]></description>
-        <link>http://press.raimondi.digital/</link>
+        <title><![CDATA[PRESS]]></title>
+        <description><![CDATA[PRESS]]></description>
+        <link>http://press.claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 20:14:07 GMT</lastBuildDate>
-        <atom:link href="http://press.raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 15:18:30 GMT</lastBuildDate>
+        <atom:link href="http://press.claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intervista ad eBay]]></title>
+            <description><![CDATA[<article><h1>Intervista ad eBay</h1><p>Intervista a Claudio Raimondi - General Manager eBay in Italia - Milano. Un marketplace fatto di persone: siamo sul territorio e lavoriamo per il territorio.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c18cc5e34f733622f644e14b62e248e4/noop.jpg?input=http%3A%2F%2Fwww.digitalpeople.tv%2Fd%2Fwp-content%2Fuploads%2F2016%2F08%2Febay.jpg"></article>]]></description>
+            <link>http://www.digitalpeople.tv/intervista-ad-ebay-2/</link>
+            <guid isPermaLink="false">683ec1fc-c8d1-421b-948e-282aa6430cc0</guid>
+            <pubDate>Thu, 01 Sep 2016 15:18:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In Italia 88 milionari grazie a eBay - IlGiornale.it]]></title>
             <description><![CDATA[<article><h1>In Italia 88 milionari grazie a eBay - IlGiornale.it</h1><p>In Italia 88 milionari grazie a eBay</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ece2427-25bb-469f-9a81-c524bc068a9e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=fuPTDA0T6vU</link>
             <guid isPermaLink="false">17e28661-7359-41a8-b38a-f87ee397a818</guid>
             <pubDate>Fri, 04 Mar 2016 06:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EBay Moda studia da magazine e community]]></title>
-            <description><![CDATA[<article><h1>EBay Moda studia da magazine e community</h1><p>EBay Moda studia da magazine e community from PambiancoTv on Vimeo. EBay diventa un po' magazine e un po' community. Non più solo un portale di e-commerce, infatti, ma anche una piattaforma su cui informarsi e lasciarsi ispirare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ea3713f5152dd4a31c9f5b6a5694a180d112230.jpg"></article>]]></description>
-            <link>http://tv.pambianconews.com/ebay-moda-studia-da-magazine-e-community/</link>
-            <guid isPermaLink="false">ed519b74-78ca-4db8-aeb1-b5633745b8f2</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
