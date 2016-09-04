@@ -1,4 +1,3 @@
-layout_spectrum: 0.8731965911574662
 typography_spectrum: 0.6839241546113044
 color:
   saturation: 0.19453638861887157
@@ -11,21 +10,26 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.723550264723599
-title: PRESS
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: 'Claudio Raimondi, General Manager at eBay in Italy'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a341cff7-cd75-48d2-9030-82ee2f24fcf0.jpg
+  type: null
+  appId: null
+layout_spectrum: 0.8731965911574662
+analytics:
+  twitter: null
+  google: UA-5050578-6
+  facebook: null
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c171dc-8305-4188-920e-d279f7e42698.jpg
+name: Claudio Raimondi
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: blog
     url: 'http://www.ClaudioRaimondi.com'
@@ -39,24 +43,20 @@ navigation:
   - name: on LinkedIn
     url: 'http://www.linkedin.com/in/craimondi'
     type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Claudio Raimondi
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/364c9bb4-58ec-447b-81c5-76115659f0dd.jpg
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a341cff7-cd75-48d2-9030-82ee2f24fcf0.jpg
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c171dc-8305-4188-920e-d279f7e42698.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: PRESS
+description: 'Claudio Raimondi, General Manager at eBay in Italy'
+purpose: []
