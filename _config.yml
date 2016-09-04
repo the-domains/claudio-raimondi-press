@@ -1,3 +1,16 @@
+layout_spectrum: 0.8731965911574662
+typography_spectrum: 0.6839241546113044
+color:
+  saturation: 0.19453638861887157
+  brandStrength: 0.21298030205070972
+  lightness: 0.9817193828057498
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.723550264723599
 title: PRESS
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: 'Claudio Raimondi, General Manager at eBay in Italy'
-color:
-  saturation: 0.6342642
-  brandStrength: 1
-  lightness: 0.150967
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0
 navigation:
   - name: blog
     url: 'http://www.ClaudioRaimondi.com'
@@ -58,5 +60,3 @@ analytics:
   facebook: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c171dc-8305-4188-920e-d279f7e42698.jpg
-typography_spectrum: 0.4183673
-layout_spectrum: 0.6516661522909999
