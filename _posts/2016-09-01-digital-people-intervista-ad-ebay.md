@@ -1,19 +1,19 @@
 ---
-title: 'Digital People: Intervista ad eBay'
-datePublished: '2016-09-01T22:17:09.580Z'
-dateModified: '2016-09-01T22:17:09.484Z'
+datePublished: '2016-09-01T22:20:48.060Z'
+sourcePath: _posts/2016-09-01-digital-people-intervista-ad-ebay.md
+isBasedOnUrl: 'https://vimeo.com/180744061'
 author:
   - name: Digital People TV
     url: 'https://vimeo.com/digitalpeopletv'
     avatar: {}
-isBasedOnUrl: 'https://vimeo.com/180744061'
-description: >-
-  Intervista a Claudio Raimondi - General Manager eBay in Italia - Milano.
-  Digital People è online su http://www.digitalpeople.tv Digital People.
-  Persone, brands, esperienze di un mondo digitale.
-publisher: {}
 via: {}
-sourcePath: _posts/2016-09-01-digital-people-intervista-ad-ebay.md
+dateModified: '2016-09-01T22:20:47.557Z'
+title: 'Digital People: Intervista ad eBay'
+publisher: {}
+description: >-
+  Intervista a Claudio Raimondi - General Manager eBay in Italia - Milano. Un
+  marketplace fatto di persone: siamo sul territorio e lavoriamo per il
+  territorio.
 starred: false
 inFeed: true
 hasPage: false
