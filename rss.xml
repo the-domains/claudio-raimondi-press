@@ -4,11 +4,18 @@
         <description><![CDATA[PRESS]]></description>
         <link>http://press.claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 20:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 22:17:14 GMT</lastBuildDate>
         <atom:link href="http://press.claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Digital People: Intervista ad eBay]]></title>
+            <description><![CDATA[<article><h1>Digital People: Intervista ad eBay</h1><p>Intervista a Claudio Raimondi - General Manager eBay in Italia - Milano. Digital People è online su http://www.digitalpeople.tv Digital People. Persone, brands, esperienze di un mondo digitale.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/203447a2442a8b76b97255abbe159b8c/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F589101733_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/180744061</link>
+            <guid isPermaLink="false">5870a9ec-02f2-4d51-b594-8b7df500ef93</guid>
+            <pubDate>Thu, 01 Sep 2016 22:17:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[eBay da Mercatino a mega eShop]]></title>
-            <description><![CDATA[<article><h1>eBay da Mercatino a mega eShop</h1><p>Da mercatino dell'usato al più grande centro commerciale online: un cambio rivoluzionario per eBay che ha visto evolvere il proprio modello di business. Nato nel 1995 come piattaforma di aste tra privati, eBay è oggi una grande multinazionale, finestra sul mondo per chi vuole vendere e acquis</p><img src="http://www.digitalpeople.tv/d/wp-content/uploads/2016/08/92172_ebay2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>eBay da Mercatino a mega eShop</h1><p>Da mercatino dell'usato al più grande centro commerciale online: un cambio rivoluzionario per eBay che ha visto evolvere il proprio modello di business. Nato nel 1995 come piattaforma di aste tra privati, eBay è oggi una grande multinazionale, finestra sul mondo per chi vuole vendere e acquis</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/11ed23b2953e686be176ec7a775d92d8/noop.jpg?input=http%3A%2F%2Fwww.digitalpeople.tv%2Fd%2Fwp-content%2Fuploads%2F2016%2F08%2F92172_ebay2.jpg"></article>]]></description>
             <link>http://www.digitalpeople.tv/ebay-da-mercatino-mega-eshop-2/</link>
             <guid isPermaLink="false">9a28395f-3506-4e6b-8fbf-308bb3eabe4d</guid>
             <pubDate>Thu, 01 Sep 2016 20:53:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=t60gpuSJaL4</link>
             <guid isPermaLink="false">1a566ad3-de67-423d-b273-353573e8d307</guid>
             <pubDate>Mon, 25 Apr 2016 15:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L'Aquila rinasce anche grazie a eBay - Panorama]]></title>
-            <description><![CDATA[<article><h1>L'Aquila rinasce anche grazie a eBay - Panorama</h1><p>In apparenza, non hanno nulla in comune. Dolci Aveja è una pasticceria artigianale, Egar vende prodotti di pelletteria e bigiotteria, L'Aquila Design si occupa di arredamento d'interni, Mr Gadget ha un vasto assortimento di prodotti per bambini e adulti, mentre Oro & Argento, come il nome suggerisce, è una gioielleria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a1db6864525be7338173f954828c3f004164b61.jpg"></article>]]></description>
-            <link>http://www.panorama.it/mytech/laquila-rinasce-anche-grazie-ebay/</link>
-            <guid isPermaLink="false">0fab1618-cac3-43be-be89-6e95bebfb058</guid>
-            <pubDate>Mon, 25 Apr 2016 15:22:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
